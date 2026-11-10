@@ -1,4 +1,4 @@
-
 streamlit
-pillow>=12.3.0,<13.0.0
-inference-sdk
+Pillow>=12.3.0,<13.0.0
+inference-sdk==1.8.4
+opencv-python-headless
